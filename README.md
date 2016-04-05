@@ -1,3 +1,3 @@
 # Caffeinated.js
 
-A JavaScript library that brings together a number of functionalities that can help give your website the "kick" it needs.
+A JavaScript library that brings together a number of functionalities that can help give your website the "kick" it needs, with a focus on UI/UX.
